@@ -64,26 +64,5 @@ This project allows users to answer a series of trivia questions and tracks thei
 
 ## 🖼️ Preview (CLI Output)
 
-```bash
- _____  __  __  ____  ____         ___    __    __  __  ____   
-(  _  )(  )(  )(_  _)(_   )       / __)  /__\  (  \/  )( ___)  
- )(_)(  )(__)(  _)(_  / /_       ( (_-. /(__)\  )    (  )__)   
-(___/\\(______)(____)(____)       \___/(__)(__)(_/\/\_)(____)  
-
-Q1: A slug's blood is green. (True/False): True
-You've got it right!
-The correct answer was: True
-Your correct score is: 1/1
-
-Q2: The loudest animal is the African Elephant. (True/False): False
-You've got it right!
-The correct answer was: False
-Your correct score is: 2/2
-
-
-...
-
-Congrats! You have completed the quiz
-Your final score was: 10/12
-
+![quizler](https://github.com/user-attachments/assets/a3c45d02-9322-449d-800a-8bd6fffe9cef)
 
